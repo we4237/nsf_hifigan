@@ -1,0 +1,1 @@
+tensorboard --logdir="logs_24k/lightning_logs/version_2" --port 6006
